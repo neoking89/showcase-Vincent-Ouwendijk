@@ -1,2 +1,2 @@
 # showcase-vincent-ouwendijk
-sample of older and current projects
+samples of older and current personal projects
